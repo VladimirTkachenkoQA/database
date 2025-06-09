@@ -5,3 +5,6 @@
 
 ## Составил JOIN запросы для проекта "Интернет-магазин"
 ### https://docs.google.com/spreadsheets/d/1ZQvOsDN0LUHyAe29pxsl8GBuI8Qivcb55Efii1J9OHA/edit?gid=0#gid=0
+
+## Создал кластер в MongoDB Atlass, подключился к Compass, и в нем создал запросы для тестового проекта
+### https://docs.google.com/spreadsheets/d/1BLI40MrnfAJXw0sC9rerZloDcxYXUK4C0NdIAZjNdOk/edit?usp=sharing
